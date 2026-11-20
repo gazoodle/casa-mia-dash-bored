@@ -1,0 +1,7 @@
+{
+  "name": "Dash-Bored",
+  "homeassistant": "2026.3.0",
+  "zip_release": true,
+  "filename": "dash_bored.zip",
+  "hide_default_branch": true
+}
