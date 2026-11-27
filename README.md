@@ -10,7 +10,7 @@
 
 **Yet Another Dashboard Designer**
 
-> **Maturity: In development.** Being built: parts work, it changes often, and an update may break it. For the curious. ([The levels](https://github.com/gazoodle/casa-mia/blob/2026.11.12/docs/README.md#maturity))
+> **Maturity: In development.** Being built: parts work, it changes often, and an update may break it. For the curious. ([The levels](https://github.com/gazoodle/casa-mia/blob/2026.11.14/docs/README.md#maturity))
 
 > **This is a work in progress.** Of the eighteen, five run in Home Assistant today: the
 > Gazette, Bakelite, the Fridge, Aurora and Digs. Contraption runs for one room. The other twelve are mock-ups:
@@ -55,85 +55,85 @@ The Gazette, Bakelite, the Fridge, Aurora and Digs can be used. The pictures of 
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="#the-gazette"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-gazette.webp" alt="Gazette" width="100%"></a>
+<a href="#the-gazette"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-gazette.webp" alt="Gazette" width="100%"></a>
 <p><b><a href="#the-gazette">Gazette</a></b> · Being built<br>The house as a newspaper. Stories are ranked, so what matters most leads; a Sensor Watch alert is breaking news. Three papers from the same stories: a broadsheet, a red-top and a rolling news channel. One column on a phone.</p>
 </td>
 <td width="33%" valign="top">
-<a href="#the-console"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-bakelite.webp" alt="Bakelite" width="100%"></a>
+<a href="#the-console"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-bakelite.webp" alt="Bakelite" width="100%"></a>
 <p><b><a href="#the-console">Bakelite</a></b> · Being built: every kind of device the Gazette shows. Now the first era of the Console, with Nixie (1960s), Silverface (1970s), Bargraph (1980s) and Beige (1990s) after it<br>A 1950s instrument panel: glowing valves, moving-coil meters, fluted dimmer knobs, tumbler switches and knife switches for scenes.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-calibre.webp" alt="Calibre, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-calibre.webp" alt="Calibre, as a mock-up" width="100%">
 <p><b>Calibre</b> · Mock-up<br>A watch movement. Each room is a bridge wound open by a pinion and rack, the going train runs faster as the house draws more, and a lever escapement ticks while data is fresh.</p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-contraption.webp" alt="Contraption, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-contraption.webp" alt="Contraption, as a mock-up" width="100%">
 <p><b><a href="#contraption">Contraption</a></b> · Being built: one room so far (the picture is of an earlier mock-up)<br>A Heath Robinson apparatus in pen and wash. Pull a lever and a rope lifts a boot, a kipper or a small anvil off a candle to light the room.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-aurora.webp" alt="Aurora, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-aurora.webp" alt="Aurora, as a mock-up" width="100%">
 <p><b><a href="#aurora">Aurora</a></b> · Being built (the picture is of its mock-up)<br>Current web style: glass tiles in a bento grid over a sky that warms as lights come on. A room tile grows into a sheet of faders.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-pcb.webp" alt="Board, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-pcb.webp" alt="Board, as a mock-up" width="100%">
 <p><b>Board</b> · Mock-up<br>A 1984 circuit board. Starburst and seven-segment LED displays, DIP switches for devices and traces that carry a signal while a room is on.</p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-movement.webp" alt="Movement, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-movement.webp" alt="Movement, as a mock-up" width="100%">
 <p><b>Movement</b> · Mock-up<br>A watch movement that fills the screen, rendered as real 3D metal under one lamp. A going train, lever and balance run across the middle; each room is a bridge, with screws for switches and jewels for pilot lamps.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-dusk.webp" alt="Dusk, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-dusk.webp" alt="Dusk, as a mock-up" width="100%">
 <p><b>Dusk</b> · Mock-up<br>A storybook picture of the house from the garden. Lit rooms have glowing windows, curtains draw, the door stands ajar when unlocked, and the sky follows the time of day.</p>
 </td>
 <td width="33%" valign="top">
-<a href="#the-fridge"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-fridge-family.webp" alt="Fridge" width="100%"></a>
+<a href="#the-fridge"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-fridge-family.webp" alt="Fridge" width="100%"></a>
 <p><b><a href="#the-fridge">Fridge</a></b> · Being built: every kind of device, in three households<br>The fridge door: a polaroid per room, button magnets for devices, sticky notes for what is wrong, the cameras' pictures under a butterfly, a notepad of the day's facts and fridge-poetry words for scenes.</p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-levers.webp" alt="Lever Frame, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-levers.webp" alt="Lever Frame, as a mock-up" width="100%">
 <p><b>Lever Frame</b> · Mock-up<br>A railway signal box: an illuminated diagram, block instruments for temperature and a frame of coloured levers to pull.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-patchbay.webp" alt="Patch Bay, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-patchbay.webp" alt="Patch Bay, as a mock-up" width="100%">
 <p><b>Patch Bay</b> · Mock-up<br>A modular synthesiser. Knobs for lights, toggles for switches, and scenes patched to rooms with hanging cables.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-departures.webp" alt="Departures, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-departures.webp" alt="Departures, as a mock-up" width="100%">
 <p><b>Departures</b> · Mock-up<br>A split-flap station board that turns through every letter to reach the new state.</p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-cutaway.webp" alt="Cutaway, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-cutaway.webp" alt="Cutaway, as a mock-up" width="100%">
 <p><b>Cutaway</b> · Mock-up<br>A blueprint section through the house. Lit rooms fill with warm light; fittings are numbered as on a drawing.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-orrery.webp" alt="Orrery, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-orrery.webp" alt="Orrery, as a mock-up" width="100%">
 <p><b>Orrery</b> · Mock-up<br>Rooms as planets and devices as moons, on brass arms around a sun that grows with the power drawn.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-scope.webp" alt="Scope, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-scope.webp" alt="Scope, as a mock-up" width="100%">
 <p><b>Scope</b> · Mock-up<br>A 1970s bench oscilloscope. Each room is a channel: its temperature history as a phosphor trace, its lights as a square wave, with rotary switches for the time base and scale.</p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-textmode.webp" alt="Text Mode, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-textmode.webp" alt="Text Mode, as a mock-up" width="100%">
 <p><b>Text Mode</b> · Mock-up<br>An 80 by 25 character worksheet driven from the keyboard, on a choice of four tubes: business blue, green, amber and white phosphor.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-arcade.webp" alt="Arcade, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-arcade.webp" alt="Arcade, as a mock-up" width="100%">
 <p><b>Arcade</b> · Mock-up<br>A fixed-shooter cabinet. Devices hang in formation by room; aim and fire to switch one.</p>
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-mock-digs.webp" alt="Digs, as a mock-up" width="100%">
+<img src="https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-mock-digs.webp" alt="Digs, as a mock-up" width="100%">
 <p><b><a href="#digs">Digs</a></b> · Being built (the picture is of its mock-up)<br>The house in section, built of square blocks sixteen pixels across. A lamp lights the blocks round it, a level is a stack of ten blocks, hearts are the house's health and the sky keeps the real time. Unlocking the door takes two hits.</p>
 </td>
 </tr>
@@ -200,7 +200,7 @@ corner (see [The Fridge](#the-fridge)).
 
 ## The Gazette
 
-![The Gazette's broadsheet: a boiler fault leads, with the rooms' devices in the columns below it and the other news, the amusements and the weather beside](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-gazette.webp)
+![The Gazette's broadsheet: a boiler fault leads, with the rooms' devices in the columns below it and the other news, the amusements and the weather beside](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-gazette.webp)
 
 The page works out what is worth saying about the house and puts the most important
 thing at the top:
@@ -412,7 +412,7 @@ A column of announcements about the household, each with its time, newest first:
 - **Comings and goings.** Each person's latest move: arrived home, left the house, or
   arrived at one of your zones. It is read from Home Assistant's person entities, so it
   needs people with a device tracker.
-- **Songs.** With [Love it or Loathe it](https://github.com/gazoodle/casa-mia/blob/2026.11.12/docs/applets/love-or-loathe.md), each song somebody loves or
+- **Songs.** With [Love it or Loathe it](https://github.com/gazoodle/casa-mia/blob/2026.11.14/docs/applets/love-or-loathe.md), each song somebody loves or
   loathes: "Ann wishes it known that “Night Train” by The Sleepers is greatly to their
   liking". The column prints each person's latest word on a song, and a rating taken
   away takes its announcement with it.
@@ -435,7 +435,7 @@ song or programme, the room, and whether it is on now. It is called **Showbiz** 
 red-top. Speakers that began the same song within a minute of each other are one line
 with all their rooms. Pressing a line opens that player's clipping.
 
-With [Love it or Loathe it](https://github.com/gazoodle/casa-mia/blob/2026.11.12/docs/applets/love-or-loathe.md), a song is followed by who loved it and
+With [Love it or Loathe it](https://github.com/gazoodle/casa-mia/blob/2026.11.14/docs/applets/love-or-loathe.md), a song is followed by who loved it and
 who loathed it. These change as soon as somebody rates the song or takes a rating away.
 
 - A player is listed only if it is a device on the page, and only when it gives a title.
@@ -462,14 +462,14 @@ its weather and its high and low. Each paper has its own words for the sky: rain
 
 ### Sensor Watch
 
-If you use [Sensor Watch](https://github.com/gazoodle/casa-mia/blob/2026.11.12/docs/applets/sensor-watch.md), a sensor that goes above its normal level is
+If you use [Sensor Watch](https://github.com/gazoodle/casa-mia/blob/2026.11.14/docs/applets/sensor-watch.md), a sensor that goes above its normal level is
 breaking news: a banner across the top with the message you gave that sensor, and the
 story placed by its level. A page opened later is still told of every alert that holds.
 Dash-Bored works without Sensor Watch; there is then no breaking news.
 
 ### Casa Mia's cameras
 
-If the Casa Mia app is installed and you use its [Cameras](https://github.com/gazoodle/casa-mia/blob/2026.11.12/docs/applets/cameras.md) page, a camera
+If the Casa Mia app is installed and you use its [Cameras](https://github.com/gazoodle/casa-mia/blob/2026.11.14/docs/applets/cameras.md) page, a camera
 listed there is shown in place of the one Dash-Bored finds in Home Assistant. It has the
 title you gave it on that page, and it brings what you set up for it there:
 
@@ -564,9 +564,9 @@ switch for a button or a script, and a guarded switch for a lock, a gate or a ga
 
 The Console of the 1950s. It shows every kind of device the Gazette does.
 
-![Bakelite: three alerts on handwritten cards beside their lamps, meters for the mains and the outside air, four knife switches for scenes and the era switch, over a chassis for each room with a valve and its knobs](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-bakelite.webp)
+![Bakelite: three alerts on handwritten cards beside their lamps, meters for the mains and the outside air, four knife switches for scenes and the era switch, over a chassis for each room with a valve and its knobs](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-bakelite.webp)
 
-At the very top is a warning lamp for each sensor that [Sensor Watch](https://github.com/gazoodle/casa-mia/blob/2026.11.12/docs/applets/sensor-watch.md)
+At the very top is a warning lamp for each sensor that [Sensor Watch](https://github.com/gazoodle/casa-mia/blob/2026.11.14/docs/applets/sensor-watch.md)
 has above its normal level, the worst first. Beside each is a card in a brass holder,
 handwritten in ink, giving the sensor's name, what is wrong and since when. The lamp is red for an error, red and flashing for a critical
 one, amber for a warning and white for a task. When nothing is wrong there are no lamps.
@@ -713,7 +713,7 @@ they are drawn:
 
 ### Silverface
 
-![Silverface: three alerts on lit tiles with label tape, two lit meters, four scene buttons and the era switch, over aluminium faceplates with knobs, toggle switches, a television and an alarm's thumbwheels](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-silverface.webp)
+![Silverface: three alerts on lit tiles with label tape, two lit meters, four scene buttons and the era switch, over aluminium faceplates with knobs, toggle switches, a television and an alarm's thumbwheels](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-silverface.webp)
 
 The Console of the 1970s, after the hi-fi and bench instruments of the time. It has the
 same controls as Bakelite in the same places, and each works the same way; what differs is
@@ -791,7 +791,7 @@ go dark.
 
 ## The Fridge
 
-![A young family's fridge door: three sticky notes, a polaroid for each room with magnets under it, the entrance camera's photograph held by a butterfly, number magnets for the alarm, a notepad, word magnets and a star chart](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-fridge-family.webp)
+![A young family's fridge door: three sticky notes, a polaroid for each room with magnets under it, the entrance camera's photograph held by a butterfly, number magnets for the alarm, a notepad, word magnets and a star chart](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-fridge-family.webp)
 
 The house as what is stuck to a fridge door. It shows every kind of device the Gazette
 does.
@@ -822,7 +822,7 @@ does.
   door when it is sent, and after 30 seconds if it is left. An alarm whose code is words
   is not on the door, and its room says so.
 - **Sticky notes** along the top, one for each sensor that
-  [Sensor Watch](https://github.com/gazoodle/casa-mia/blob/2026.11.12/docs/applets/sensor-watch.md) has above its normal level, the worst first: yellow for
+  [Sensor Watch](https://github.com/gazoodle/casa-mia/blob/2026.11.14/docs/applets/sensor-watch.md) has above its normal level, the worst first: yellow for
   a task, orange for a warning, pink for an error, and a red one that won't keep still
   for critical.
 - **A notepad** above the rooms with the day jotted on it: how many lights are on, what
@@ -854,9 +854,9 @@ choice is remembered by the browser it was made in.
 | The notes | Sticky notes | White cards with a coloured edge | Lined paper from a pad |
 | Also on it | A star chart, crayon, and chocolate spread | A shopping list | A postcard, and a tea ring on the pad |
 
-![The yuppies' fridge: brushed steel with printed labels and black magnets](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-fridge-yuppies.webp)
+![The yuppies' fridge: brushed steel with printed labels and black magnets](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-fridge-yuppies.webp)
 
-![The grandparents' fridge: cream enamel with handwriting and notes on lined paper](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.12/docs/screenshots/dash-bored-fridge-grandparents.webp)
+![The grandparents' fridge: cream enamel with handwriting and notes on lined paper](https://raw.githubusercontent.com/gazoodle/casa-mia/2026.11.14/docs/screenshots/dash-bored-fridge-grandparents.webp)
 
 Nothing on the door is straight or clean. Everything is turned a little, each photograph
 is creased in its own way, and the door has fingerprints by its handle.
@@ -1431,7 +1431,7 @@ a nice dose of irony flooding my system as I called out how ]
 ## Part of Casa Mia
 
 Dash-Bored is part of [Casa Mia](https://github.com/gazoodle/casa-mia), where it is written and
-released. This repository is generated from Casa Mia 2026.11.12 (commit `459d2be124`) and
+released. This repository is generated from Casa Mia 2026.11.14 (commit `42fa8d08ab`) and
 isn't edited by hand, so a change to Dash-Bored is made in Casa Mia. A problem with it is
 reported here, in this repository's [issues](https://github.com/gazoodle/casa-mia-dash-bored/issues).
 
